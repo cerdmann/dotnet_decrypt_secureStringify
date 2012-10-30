@@ -1,0 +1,6 @@
+_ReSharper.OpenSslTOkenDecryptor
+TestResults
+bin
+obj
+*.suo
+*.user
